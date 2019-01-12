@@ -12,4 +12,6 @@
 - Create two Sets with numbers and chars. Find intersection, union, difference between them.
   Use difference_update to update one set by other.
 
-ZALUPA
+Create hw in new packages in hw package
+Create new branch
+Commit - push - google
